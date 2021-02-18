@@ -23,3 +23,6 @@ the mean average precision metric; which is an indication that
 the background affects the detection and classification of objects
 in an image and cropping an image to omit the background does
 not improve the accuracy.
+
+
+The dataset used is the Deepfashion 2 dataset found at, https://github.com/switchablenorms/DeepFashion2
